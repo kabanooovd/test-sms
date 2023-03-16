@@ -1,0 +1,8 @@
+.message__wrapper {
+  border-radius: 8px;
+  background: #8660f0;
+  color: #FFFFFF;
+
+  margin: 10px;
+  padding: 10px;
+}
